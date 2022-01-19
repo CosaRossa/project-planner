@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Adopt every cat in the world",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate placeat excepturi et nesciunt sed consequuntur aut eaque minus voluptatum praesentium laborum dicta, aperiam hic velit.",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Take a long walk in the green",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, nam?",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Clean up my bedroom",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit ut id vel soluta et animi?",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "title": "Eat well and go do some yoga!",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore, dolorem porro nesciunt cumque voluptatem est dicta neque veniam nam minima.",
+      "complete": false
+    },
+    {
+      "title": "Order medicines",
+      "details": "Che te devo di. Che dettagli? Pippi Merda mettice.\nChiamare studio medico e poi farmacia.\n",
+      "complete": false,
+      "id": 6
+    },
+    {
+      "title": "Fare la spesa",
+      "details": "Latte\nSpezzatino\nFrutta\nVerdura",
+      "complete": false,
+      "id": 7
+    }
+  ]
+}
